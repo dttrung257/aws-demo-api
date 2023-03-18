@@ -1,4 +1,4 @@
-package com.example.awsdemo;
+package com.uet.awsdemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
